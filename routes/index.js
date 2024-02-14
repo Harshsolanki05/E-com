@@ -23,3 +23,4 @@ router.post('/product-insert',product.insert); // product-insert
 router.get('/single-product-show/:id',product.sin_p); // single-product-show/  
 
 module.exports = router;
+// harsgh
